@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Hello! How are you? "Tired"
+=======
 Hello! How are you?
 Not Doing Well, Thanks
+>>>>>>> 8b590a8f87ae2364868695e86f60accbecfc668a
