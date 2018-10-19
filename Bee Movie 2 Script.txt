@@ -1,7 +1,2 @@
-<<<<<<< HEAD
+
 NOT THE BEES!
-=======
-
-THIS IS A CHANGE ON A BRANCH OR AAAGH
-
->>>>>>> 2e8aed92f7fe3f93e53d35cc99efa44ac5fede25
