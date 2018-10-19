@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Het
-=======
-dog
->>>>>>> f7a457ea2f077eaf1e325d5e8d98872f8ee5ebac
+lion
