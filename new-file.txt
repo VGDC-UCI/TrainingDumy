@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is an old file.
+=======
+This is a new file.
+Blah blah blah
+>>>>>>> dc90ab1981f3f4a06281e85c396a87f7301fa201
