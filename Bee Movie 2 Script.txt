@@ -1,6 +1,2 @@
 
-<<<<<<< HEAD
-THIS IS A CHANGE ON A BRANCH OR 1234
-=======
 NOT THE BEES!
->>>>>>> 1898c7c4abe64e88ec55a5611b9d379280638faf
